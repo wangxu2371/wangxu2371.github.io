@@ -20,11 +20,11 @@
     
     
     <entry>
-      <title>背景</title>
-      <link href="/img/index.html"/>
-      <url>/img/index.html</url>
+      <title>链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<p><img src="/img/index/bluepinkgirl.png" alt="Alt text"></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -34,17 +34,6 @@
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -78,6 +67,17 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>背景</title>
+      <link href="/img/index.html"/>
+      <url>/img/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
