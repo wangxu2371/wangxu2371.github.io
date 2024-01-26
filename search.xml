@@ -42,9 +42,20 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/project/movies/index.html"/>
-      <url>/project/movies/index.html</url>
+      <title>标签</title>
+      <link href="/project/tags/index.html"/>
+      <url>/project/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/project/music/index.html"/>
+      <url>/project/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -64,20 +75,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/project/tags/index.html"/>
-      <url>/project/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/project/music/index.html"/>
-      <url>/project/music/index.html</url>
+      <title>电影</title>
+      <link href="/project/movies/index.html"/>
+      <url>/project/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
