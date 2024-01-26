@@ -5,8 +5,8 @@
     
     <entry>
       <title>第一次施工</title>
-      <link href="/project/2022/01/25/2024-1-25/"/>
-      <url>/project/2022/01/25/2024-1-25/</url>
+      <link href="/2022/01/25/2024-1-25/"/>
+      <url>/2022/01/25/2024-1-25/</url>
       
         <content type="html"><![CDATA[<h2 id="这是我第一次施工。"><a href="#这是我第一次施工。" class="headerlink" title="这是我第一次施工。"></a>这是我第一次施工。</h2>]]></content>
       
@@ -20,53 +20,9 @@
     
     
     <entry>
-      <title>图片</title>
-      <link href="/project/img/index.html"/>
-      <url>/project/img/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/project/music/index.html"/>
-      <url>/project/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>链接</title>
-      <link href="/project/link/index.html"/>
-      <url>/project/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/project/about/index.html"/>
-      <url>/project/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/project/tags/index.html"/>
-      <url>/project/tags/index.html</url>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -76,8 +32,52 @@
     
     <entry>
       <title>电影</title>
-      <link href="/project/movies/index.html"/>
-      <url>/project/movies/index.html</url>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片</title>
+      <link href="/img/index.html"/>
+      <url>/img/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
