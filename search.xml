@@ -20,42 +20,9 @@
     
     
     <entry>
-      <title>图片</title>
-      <link href="/project/img/index.html"/>
-      <url>/project/img/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/project/about/index.html"/>
       <url>/project/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/project/tags/index.html"/>
-      <url>/project/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/project/music/index.html"/>
-      <url>/project/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -75,9 +42,42 @@
     
     
     <entry>
+      <title>图片</title>
+      <link href="/project/img/index.html"/>
+      <url>/project/img/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/project/movies/index.html"/>
       <url>/project/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/project/music/index.html"/>
+      <url>/project/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/project/tags/index.html"/>
+      <url>/project/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
