@@ -53,20 +53,9 @@
     
     
     <entry>
-      <title>链接</title>
+      <title>传送门</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>图片</title>
-      <link href="/img/index.html"/>
-      <url>/img/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -78,6 +67,17 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片</title>
+      <link href="/img/index.html"/>
+      <url>/img/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
